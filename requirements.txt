@@ -1,0 +1,4 @@
+Pyrogram==2.0.106
+TgCrypto
+random
+requests
