@@ -1,5 +1,5 @@
 from pyrogram import Client, idle
-from plugins.main import app as Client2
+from plugins.Ashu import app as Client2
 from config import *
 
 
